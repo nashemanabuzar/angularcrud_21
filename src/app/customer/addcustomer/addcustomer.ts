@@ -31,11 +31,11 @@ export class Addcustomer {
   countries = ['India', 'USA', 'Singapore']
   isedit = false;
   editdata!: CustomerModel;
-  editId='';
+  editId = '';
 
   ngOnInit() {
     this.editId = this._actroute.snapshot.paramMap.get('id') as string;
-    if (this.editId != null && this.editId!='') {
+    if (this.editId != null && this.editId != '') {
       this.isedit = true;
       this.title = 'Edit Customer - form'
       this.SetEditdata(this.editId);
@@ -104,7 +104,7 @@ export class Addcustomer {
     if (this._form.valid) {
       let _obj = this._form.value as CustomerModel;
       if (this.isedit) {
-        this.service.UpdateCustomer(_obj,this.editId).subscribe(item => {
+        this.service.UpdateCustomer(_obj, this.editId).subscribe(item => {
           alert('Customer updated sucessfully.')
           this.router.navigateByUrl('/customer')
         });

@@ -10,8 +10,12 @@ import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-customerlist',
-  imports: [MatTableModule, MatPaginatorModule, MatButtonModule,
-    MatIconModule, MatCardModule
+  imports: [
+    MatTableModule, 
+    MatPaginatorModule, 
+    MatButtonModule,
+    MatIconModule, 
+    MatCardModule
   ],
   templateUrl: './customerlist.html',
   styleUrl: './customerlist.css',

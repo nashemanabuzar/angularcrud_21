@@ -20,14 +20,13 @@
       ],
       "id": "bf2e"
     },
-     {
+    {
       "name": "vijin",
       "email": "vijin@in.com",
       "mobile": "78877888",
       "remarks": "test updated",
       "isprime": false,
-      "address": [
-      ],
+      "address": [],
       "id": "bf2e1"
     },
     {
@@ -36,8 +35,7 @@
       "mobile": "78877888",
       "remarks": "test updated",
       "isprime": false,
-      "address": [
-      ],
+      "address": [],
       "id": "bf2e2"
     },
     {
@@ -46,27 +44,36 @@
       "mobile": "78877888",
       "remarks": "test updated",
       "isprime": false,
-      "address": [
-      ],
+      "address": [],
       "id": "bf2e3"
-    },{
+    },
+    {
       "name": "vijin",
       "email": "vijin@in.com",
       "mobile": "78877888",
       "remarks": "test updated",
       "isprime": false,
-      "address": [
-      ],
+      "address": [],
       "id": "bf2e4"
-    },{
+    },
+    {
       "name": "vijin",
       "email": "vijin@in.com",
       "mobile": "78877888",
       "remarks": "test updated",
       "isprime": false,
-      "address": [
-      ],
+      "address": [],
       "id": "bf2e5"
+    },
+    {
+      "id": "9832",
+      "name": "bvcbcv",
+      "email": "fsgsf@fgvdfd.com",
+      "mobile": "356357373",
+      "remarks": "vcbvcbcvb",
+      "isprime": true,
+      "address": []
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

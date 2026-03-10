@@ -1,0 +1,72 @@
+{
+  "customers": [
+    {
+      "name": "vijin",
+      "email": "vijin@in.com",
+      "mobile": "78877888",
+      "remarks": "test updated",
+      "isprime": false,
+      "address": [
+        {
+          "city": "Chennai",
+          "country": "India",
+          "zipcode": "600048"
+        },
+        {
+          "city": "Annanager",
+          "country": "India",
+          "zipcode": "600032"
+        }
+      ],
+      "id": "bf2e"
+    },
+     {
+      "name": "vijin",
+      "email": "vijin@in.com",
+      "mobile": "78877888",
+      "remarks": "test updated",
+      "isprime": false,
+      "address": [
+      ],
+      "id": "bf2e1"
+    },
+    {
+      "name": "vijin",
+      "email": "vijin@in.com",
+      "mobile": "78877888",
+      "remarks": "test updated",
+      "isprime": false,
+      "address": [
+      ],
+      "id": "bf2e2"
+    },
+    {
+      "name": "vijin",
+      "email": "vijin@in.com",
+      "mobile": "78877888",
+      "remarks": "test updated",
+      "isprime": false,
+      "address": [
+      ],
+      "id": "bf2e3"
+    },{
+      "name": "vijin",
+      "email": "vijin@in.com",
+      "mobile": "78877888",
+      "remarks": "test updated",
+      "isprime": false,
+      "address": [
+      ],
+      "id": "bf2e4"
+    },{
+      "name": "vijin",
+      "email": "vijin@in.com",
+      "mobile": "78877888",
+      "remarks": "test updated",
+      "isprime": false,
+      "address": [
+      ],
+      "id": "bf2e5"
+    }
+  ]
+}
